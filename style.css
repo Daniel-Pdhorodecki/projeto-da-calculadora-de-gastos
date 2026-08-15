@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+input, select, button {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+ul {
+    list-style: nome;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px 14px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+li button {
+    background-color: #e74c3c;
+}
+
+li button:hover {
+    background-color: #c0392b;
+}
+
+.edit-btn {
+  background-color: #555;
+}
+
+.edit-btn:hover {
+  background-color: #333;
+}
+
+.income {
+    color: #27ae60;
+    font-weight: bold;
+}
+
+.expense {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+}
+
+body.dark-mode li {
+    background-color: #2a2a2a;
+    box-shadow: none;
+}
+
+body.dark-mode input,
+body.dark-mode select {
+    background-color: #333;
+    color: #f0f0f0;
+    border-color: #555;
+}
