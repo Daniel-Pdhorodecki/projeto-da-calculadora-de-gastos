@@ -6,18 +6,18 @@ Aqui estão os códigos utilizados no projeto **Calculadora de Gastos**.
 
 ## 📄 index.html
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/index.html)
 
 
 ## 🎨 style.css
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/style.css)
 
 
 
 ## 🔷 main.ts
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/main.ts)
 
 
 
@@ -25,15 +25,15 @@ Aqui estão os códigos utilizados no projeto **Calculadora de Gastos**.
 
 ## 📦 store.ts
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/store.ts)
 
 
 
 ---
 
-## 🔤 type.ts
+## 🔤 types.ts
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/types.ts)
 
 
 
@@ -41,7 +41,7 @@ Aqui estão os códigos utilizados no projeto **Calculadora de Gastos**.
 
 ## 🖥️ ui.ts
 
-💻 [Ver código]
+💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/ui.ts)
 
 
 
