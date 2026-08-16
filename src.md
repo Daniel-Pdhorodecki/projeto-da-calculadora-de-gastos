@@ -2,12 +2,13 @@
 
 💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/index.html)
 
+---
 
 ## 🎨 style.css
 
 💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/style.css)
 
-
+---
 
 ## 🔷 main.ts
 
