@@ -37,4 +37,4 @@ Aqui estão os códigos utilizados no projeto **Calculadora de Gastos**.
 
 ## 📁 os arquivos dist e node_modules devem ser baixados no console do vs.code através do npm
 
-
+---
