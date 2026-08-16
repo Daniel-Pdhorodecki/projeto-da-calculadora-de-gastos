@@ -33,3 +33,5 @@
 ## 🖥️ ui.ts
 
 💻 [Ver código](https://github.com/Daniel-Pdhorodecki/projeto-da-calculadora-de-gastos/blob/main/ui.ts)
+
+---
